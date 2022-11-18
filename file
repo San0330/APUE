@@ -1,0 +1,2 @@
+ls: cannot access '/nowhere': No such file or directory
+-rw-rw-r-- 1 santosh santosh 0 Nov 14 20:53 file
